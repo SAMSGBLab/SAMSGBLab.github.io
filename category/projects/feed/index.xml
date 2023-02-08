@@ -12,7 +12,7 @@
 	<atom:link href="/category/projects/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Mon, 06 Feb 2023 20:01:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Feb 2023 15:17:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>ComDEX</title>
+		<title>ComDeX</title>
 		<link>/2023/02/06/comdex/</link>
 					<comments>/2023/02/06/comdex/#respond</comments>
 		
@@ -30,7 +30,7 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=47</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[ComDeX is a context-aware federated architecture and IoT platform for enabling data exchange between IoT- enhanced communities. Today, such smart communities are highly heterogeneous and siloed as they can offer IoT applications and ser- vices only to their local community inhabitants. ComDeX uses prop- erty graphs to represent smart community entities and automatically maps them [&#8230;]]]></description>
 		
 					<wfw:commentRss>/2023/02/06/comdex/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

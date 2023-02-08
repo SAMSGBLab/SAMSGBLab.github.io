@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Software &#8211; SATRAI</title>
+	<atom:link href="/category/software/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 08 Feb 2023 15:06:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Plan-IoT</title>
+		<link>/2023/02/08/plan-iot/</link>
+					<comments>/2023/02/08/plan-iot/#respond</comments>
+		
+		<dc:creator><![CDATA[SATRAI_ADMIN]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2023 15:06:31 +0000</pubDate>
+				<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/?p=69</guid>
+
+					<description><![CDATA[PlanIoT is a middleware approach for enabling adaptive data flow management in IoT-enhanced spaces (e.g., buildings) using automated planning methodologies.Today&#8217;s sensorized spaces deploy applications falling to diverse categories such as analytics, real-time, transactional, video streaming and emergency response.Depending on the category, applications have different QoS requirements related to timely delivery, networking resources, accuracy, etc.Typically, state-of-the-art [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2023/02/08/plan-iot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
