@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Projects &#8211; SATRAI Living Lab</title>
+	<title>Projects &#8211; SATRAI</title>
 	<atom:link href="/category/projects/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Mon, 06 Feb 2023 20:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Feb 2023 20:01:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 		<pubDate>Mon, 06 Feb 2023 20:01:13 +0000</pubDate>
 				<category><![CDATA[Projects]]></category>
 		<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress-6.1.1/wordpress/?p=47</guid>
+		<guid isPermaLink="false">/?p=47</guid>
 
 					<description><![CDATA[]]></description>
 		
